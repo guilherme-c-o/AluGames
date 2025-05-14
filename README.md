@@ -1,4 +1,4 @@
-# Sorteador de Números
+# AluGames
 
 ## Sobre
 Projeto utilizado nos cursos de Lógica de programação da Alura.
